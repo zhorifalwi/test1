@@ -29,4 +29,4 @@ async def on_message(message):
             await message.channel.send(file=bla, embed=embed)
     await bot.process_commands(message)
 
-bot.run('NTA1NzI5NjA0OTU5MzM4NTE4.XsY36w.eS56mbrc2VojXY9fcQCkGguIE_0')
+bot.run('Token')
